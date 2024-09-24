@@ -1,7 +1,6 @@
 # Loan Approval Predictions
 
-## Overview
-- Comparing and Hypertuning Neural Nets, k-NNs, and SVMs for Loan Approval predictions
+- Comparing and Hyper-tuning Neural Nets, k-NNs, and SVMs for Loan Approval predictions
 
 ## Files
 
