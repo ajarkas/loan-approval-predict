@@ -4,8 +4,8 @@
 
 ## Files
 
-- **loan.csv**: Loan Approval dataset from Kaggle.
-- **loan_approval.ipynb**: Jupyter notebook containing analysis, preprocessing, model training, and figure generation for the loan dataset.
+- **loan.csv**: Loan Approval dataset.
+- **loan_approval.ipynb**: Jupyter notebook containing analysis, preprocessing, model training and hyper-tuning, and figure generation for the loan dataset.
 
 ## Packages Used
 
