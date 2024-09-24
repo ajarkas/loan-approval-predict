@@ -1,4 +1,4 @@
-# Loan Approval Dataset Analysis
+# Loan Approval Predictions
 
 ## Overview
 - Comparing and Hypertuning Neural Nets, k-NNs, and SVMs for Loan Approval predictions
